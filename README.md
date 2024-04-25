@@ -1,6 +1,4 @@
-# Welcome to Kishan Patel's GitHub!
-
-👋 Hi, I'm Kishan, a Master’s student in Computer Science at the New Jersey Institute of Technology, with a robust background in Information Technology from Gujarat Technological University. 
+👋 Hi, I'm Kishan, a Master’s student in Computer Science at the New Jersey Institute of Technology.. 
 
 🔍 **My Interests:**
 - Machine Learning and Data Science
