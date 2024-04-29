@@ -7,7 +7,7 @@
 
 🛠 **Tech Stack:**
 - Languages: Python, JavaScript, HTML/CSS, SQL
-- Tools: AWS, Git, VSCode, Studio 3T
+- Tools: AWS, Git, VSCode
 - Libraries/Frameworks: Django, Scikit-learn, Matplotlib, Seaborn
 
 🏗 **Projects I'm Proud Of:**
