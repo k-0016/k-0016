@@ -11,8 +11,6 @@
 - Libraries/Frameworks: Django, Scikit-learn, Matplotlib, Seaborn
 
 🏗 **Projects I'm Proud Of:**
-- **US Cost of Living Analysis Project:** Utilized advanced machine learning techniques to accurately predict economic stability, achieving high accuracy with MLP Classifier (99.30%) and ANN (98.91%).
-- **Woody’s Automotive Database Management System:** Spearheaded the design and implementation of a comprehensive database system for user registration and appointment tracking using PHP and MySQL.
 
 📚 **Currently Learning:**
 - Expanding my big data capabilities with Hadoop and enhancing my skills in large language models with LangChain.
