@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kishan!
 
-A seasoned Data Scientist with a Master of Science in Computer Science from the New Jersey Institute of Technology. I specialize in harnessing machine learning to drive business insights and solutions.
+I have a Master of Science in Computer Science from the New Jersey Institute of Technology. I specialize in harnessing machine learning to drive business insights and solutions.
 
 ## 🔍 Interests
 * Advanced Machine Learning and Predictive Analytics
@@ -23,4 +23,3 @@ A seasoned Data Scientist with a Master of Science in Computer Science from the 
 * Deepening my expertise in big data frameworks like Spark and Hadoop.
 * Exploring advancements in AI and large language models to enhance predictive modeling and data processing capabilities.
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/kishan-patel-njit/
